@@ -1,7 +1,5 @@
 <div align="center">
-
-  <img src="./header.png" alt="Dahlia Ayman - Software Developer & Odoo ERP Specialist" width="100%" />
-
+  
   <br/><br/>
 
   <h1>
