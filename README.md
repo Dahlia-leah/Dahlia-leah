@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+  <img src="./header.png" alt="Dahlia Ayman - Software Developer & Odoo ERP Specialist" width="100%" />
+
   <br/><br/>
 
   <h1>
@@ -12,6 +14,7 @@
     <strong>Software Developer | Odoo ERP Specialist | Full-Stack Developer</strong>
   </p>
 
+  <!-- Badges & Visitor Counter -->
   <p align="center">
     <a href="https://www.linkedin.com/in/dahlia-ayman-385149172/">
       <img src="https://img.shields.io/badge/LinkedIn-Dahlia_Ayman-D8A7B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,6 +25,7 @@
     <a href="https://github.com/Dahlia-leah">
       <img src="https://img.shields.io/badge/GitHub-Dahlia--leah-8D7B88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=Dahlia-leah&color=d8a7b1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
@@ -115,4 +119,3 @@ Hello! I am **Dahlia Ayman**, a **Software Developer** specializing in **Odoo ER
   <sub>Designed with elegance for Dahlia Ayman</sub>
 
 </div>
-<!-- Badge unlock commit -->
